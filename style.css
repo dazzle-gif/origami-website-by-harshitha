@@ -1,0 +1,80 @@
+body {
+  background-image: url(macos-big-sur-apple-layers-fluidic-colorful-dark-wwdc-2020-5120x2880-1432.jpg);
+  background-size:cover;
+}
+h1 {
+  background-color: black;
+  font-family:"Castellar";
+  font-size: 50px;
+  font-weight:100;
+  color:white;
+  text-align: left;
+  text-indent:90px;
+  text-decoration:underline;
+  text-indent:30px;
+  line-height:40px;
+}
+
+h2 {
+    font-family:"Comic Sans MS";
+  font-size: 30x;
+  color:rgb(236, 213, 226);
+  text-align-last: left;
+  line-height:70px;
+}
+
+a {
+
+    color:rgb(255, 255, 255);
+    text-align:right;
+}
+
+li {
+font-family:"Berlin Sans FB";
+  font-size: 20px;
+  color:#ffffff;
+  text-align-last: left;
+  line-height:40px;
+}
+
+h3 {
+font-family:"Kristen ITC";
+font-size: 50x;
+color:#f7dfdf;
+text-align-last: center;
+line-height:35px;
+text-decoration:underline;
+}
+
+.bg-img {
+width: 800px;
+margin-left:325px ;
+}
+
+.animal {
+background:rgba(0, 0, 0, 0.5);
+width:100;
+margin: 30px;
+border-top: black;
+border-style: solid;
+border-width: 4px;
+}
+
+.animal:hover{
+transform: scale(1.01);
+}
+
+.animal_matter{
+background:rgba(0, 0, 0, 0.5);
+display:flex;
+width:100;
+margin: 30px;
+border-style: dotted;
+border-width: 2px;
+}
+
+.links {
+  display:flex;
+  justify-content: flex-end;
+  margin-bottom: 1000;
+}
